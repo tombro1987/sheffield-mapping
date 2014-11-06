@@ -1,4 +1,4 @@
 sheffield-mapping
 =================
 
-Mapping in Sheffield
+Mapping in categorical and continuous data in Sheffield
